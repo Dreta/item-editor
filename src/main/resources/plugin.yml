@@ -1,0 +1,7 @@
+name: ItemEditor
+version: ${project.version}
+main: dev.dreta.itemeditor.ItemEditor
+api-version: 1.16
+authors: [ Dreta ]
+description: A simple plugin that allows you to edit an item's metadata with ease.
+website: https://dreta.dev

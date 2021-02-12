@@ -1,0 +1,25 @@
+player-only: "&cThis command can only be executed by players!"
+insufficient-privileges: "&cInsufficient privileges!"
+
+item-creator:
+  invalid-color: "&cPlease enter a valid color either in hexadecimal or vanilla color name."
+  set-name: "&ePlease enter the new name of this item."
+  invalid-integer: "&cPlease enter a valid integer!"
+  set-lore:
+    msg: "&ePlease enter line &a{LINE}&e of the lore starting from scratch, or &aDELETE&e to delete the previous line, or type in &aEND&e to end."
+    deleted: "&eDeleted the last line."
+    no-last-line: "&cThere are no lines!"
+    set-line: "&eAdded line &a{LINE}&e."
+  set-enchant:
+    name: "&ePlease enter the name of the enchantment to apply, or &aCANCEL&e to cancel."
+    level: "&ePlease enter the level of the enchantment to apply, or &aCANCEL&e to cancel."
+    enchantment-invalid: "&cThere are no enchantments with that name!"
+    level-invalid: "&cPlease enter a valid integer!"
+  set-leather-color: "&ePlease enter the color of this item either in hexadecimal or vanilla color name."
+  set-potion-data:
+    potion: "&ePlease set the potion type of this item, or &aCANCEL&e to cancel."
+    extended: "&ePlease enter whether this potion should be extended (&aYes&e/Anything else for &cNo&e), or &aCANCEL&e to cancel."
+    upgraded: "&ePlease enter whether this potion should be upgraded (&aYes&e/Anything else for &cNo&e), or &aCANCEL&e to cancel."
+    color: "&ePlease enter the color of this potion either in hexadecimal, vanilla color name, &aDEFAULT&e for the default, or &aCANCEL&e to cancel."
+    potion-invalid: "&cThere are no potions with that name!"
+  set-custom-model-data: "&ePlease enter the custom model data of this item."
